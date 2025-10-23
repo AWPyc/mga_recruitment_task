@@ -21,7 +21,7 @@ A simple task tracking API built with **Django DRF**, using **PostgreSQL** and c
 
    ```bash
    git clone https://github.com/AWPyc/mga_recruitment_task.git
-   cd task_manager
+   cd mga_recruitment_task
    ```
 
 2. Copy example environment and adjust values:

@@ -20,7 +20,7 @@ A simple task tracking API built with **Django DRF**, using **PostgreSQL** and c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AWPyc/mga_task_manager.git
+   git clone https://github.com/AWPyc/mga_recruitment_task.git
    cd task_manager
    ```
 
